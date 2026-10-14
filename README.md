@@ -31,8 +31,6 @@ I build where **machine learning, MLOps, and decision-making** meet: reinforceme
 
 🤖 [**Grounded Analytics Agent**](https://github.com/BagoesSuryoNugroho/grounded-analytics-agent): agentic analytics that returns *defensible* answers. Every answer is a Claim with lineage, assumptions, statistical caveats, and a confidence level. LangGraph, deterministic SQL/stats, Claude on Bedrock, Arize Phoenix tracing. 15/15 on a four-dimension golden set.
 
-More projects coming soon.
-
 ## Community
 
 - **Vice President, [Data Science Indonesia](https://www.datascience.or.id/)**: Indonesia's largest data tech community (20,000+ members, 100+ partners). Built the country's first open-access Data Science & AI/ML Playground.
