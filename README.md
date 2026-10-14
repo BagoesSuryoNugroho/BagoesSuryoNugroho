@@ -27,9 +27,16 @@ I build where **machine learning, MLOps, and decision-making** meet: reinforceme
 
 ## Featured project
 
-> Public, reproducible version built with open or synthetic data.
-
 🤖 [**Grounded Analytics Agent**](https://github.com/BagoesSuryoNugroho/grounded-analytics-agent): agentic analytics that returns *defensible* answers. Every answer is a Claim with lineage, assumptions, statistical caveats, and a confidence level. LangGraph, deterministic SQL/stats, Claude on Bedrock, Arize Phoenix tracing. 15/15 on a four-dimension golden set.
+
+## Selected professional work
+
+Delivered in client and employer engagements. Code is proprietary, so these are described at a high level. [Full list in PROJECTS.md →](PROJECTS.md)
+
+- **Enterprise agentic AI platform** (2026): Multi-agent platform PoC on LangGraph and MCP, with agent versioning, staged promotion, and Langfuse observability
+- **AI-Based Product Recommender** (2024): Product Recommender utilizing Reinforcement Algorithms to provide product personalization at 100M+ user scale, with automated randomized experiments
+- **MLOps Platform on an open-source stack** (2024): Built from scratch with Kubeflow, MLflow, Feast, and Evidently, applied across about 60+ AI/ML use cases
+- **Telco Location iIntelligence** (2023): Geospatial mobility analytics on anonymized data at national scale
 
 ## Community
 
@@ -46,7 +53,3 @@ I build where **machine learning, MLOps, and decision-making** meet: reinforceme
 
 - 💼 [LinkedIn](https://linkedin.com/in/bagoes-suryo-nugroho/)
 - 📧 bagoessuryo19@gmail.com
-
----
-
-<sub>Views are my own. Projects shown here use public or synthetic data only.</sub>
