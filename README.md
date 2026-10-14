@@ -36,7 +36,7 @@ Delivered in client and employer engagements. Code is proprietary, so these are 
 - **Enterprise agentic AI platform** (2026): Multi-agent platform PoC on LangGraph and MCP, with agent versioning, staged promotion, and Langfuse observability
 - **AI-Based Product Recommender** (2024): Product Recommender utilizing Reinforcement Algorithms to provide product personalization at 100M+ user scale, with automated randomized experiments
 - **MLOps Platform on an open-source stack** (2024): Built from scratch with Kubeflow, MLflow, Feast, and Evidently, applied across about 60+ AI/ML use cases
-- **Telco Location iIntelligence** (2023): Geospatial mobility analytics on anonymized data at national scale
+- **Telco Location Intelligence** (2023): Geospatial mobility analytics on anonymized data at national scale
 
 ## Community
 
