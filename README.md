@@ -29,7 +29,7 @@ I build where **machine learning, MLOps, and decision-making** meet: reinforceme
 
 > Public, reproducible version built with open or synthetic data.
 
-🤖 [**PROJECT-NAME**](https://github.com/BagoesSuryoNugroho/REPO-NAME): one-line description of the problem it solves and the architecture (e.g. multi-agent workflow built with LangGraph, tools, and evaluation).
+🤖 [**Grounded Analytics Agent**](https://github.com/BagoesSuryoNugroho/grounded-analytics-agent): agentic analytics that returns *defensible* answers. Every answer is a Claim with lineage, assumptions, statistical caveats, and a confidence level. LangGraph, deterministic SQL/stats, Claude on Bedrock, Arize Phoenix tracing. 15/15 on a four-dimension golden set.
 
 More projects coming soon.
 
