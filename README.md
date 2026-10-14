@@ -33,10 +33,11 @@ I build where **machine learning, MLOps, and decision-making** meet: reinforceme
 
 Delivered in client and employer engagements. Code is proprietary, so these are described at a high level. [Full list in PROJECTS.md →](PROJECTS.md)
 
-- **Enterprise agentic AI platform** (2026): Multi-agent platform PoC on LangGraph and MCP, with agent versioning, staged promotion, and Langfuse observability
-- **AI-Based Product Recommender** (2024): Product Recommender utilizing Reinforcement Algorithms to provide product personalization at 100M+ user scale, with automated randomized experiments
-- **MLOps Platform on an open-source stack** (2024): Built from scratch with Kubeflow, MLflow, Feast, and Evidently, applied across about 60+ AI/ML use cases
-- **Telco Location Intelligence** (2023): Geospatial mobility analytics on anonymized data at national scale
+- **Enterprise Agentic AI Platform** (2026): multi-agent platform PoC on LangGraph and MCP, with agent versioning, staged promotion, and Langfuse observability
+- **AI-Driven Dynamic Pricing Engine** (2026): personalized daily price recommendations for millions of data package subscribers, growing revenue without hurting retention, inside automated pricing guardrails
+- **AI-Based Product Recommender** (2024): reinforcement-learning personalization at 100M+ user scale, with automated randomized experiments
+- **Enterprise MLOps Platform on an Open-Source Stack** (2024): built from scratch with Kubeflow, MLflow, Feast, and Evidently, applied across 60+ AI/ML use cases
+- **Telco Location Intelligence** (2023): geospatial mobility analytics on anonymized data at national scale
 
 ## Community
 
