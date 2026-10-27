@@ -1,6 +1,6 @@
 # Hi, I'm Bagoes 👋
 
-**Data Science & AI Solutions Lead** based in Jakarta, Indonesia. ~9 years of experience taking data and AI systems from idea to production at telco scale (100M+ subscribers).
+**Data Science & AI Solutions Lead** based in Jakarta, Indonesia. ~7 years of experience taking data and AI systems from idea to production at telco scale (100M+ subscribers).
 
 I build where **machine learning, MLOps, and decision-making** meet: reinforcement-learning recommenders, production ML platforms, and, more recently, agentic AI systems.
 
